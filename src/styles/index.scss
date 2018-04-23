@@ -1,0 +1,8 @@
+#app {
+    h1 {
+        color: orange;
+        &:hover {
+            color: pink;
+        }
+    }
+}
